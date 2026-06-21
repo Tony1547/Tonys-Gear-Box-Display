@@ -90,11 +90,12 @@ Now that everything is assembled the last thing to do is wire the battery and tu
 
 
 <img width="741" height="877" alt="image" src="https://github.com/user-attachments/assets/38f511ea-b765-4a2e-99f2-482328b725ef" />
+
 (wiring diagram)
 
 --------
 
-#BOM
+# BOM
 
 
 | Index | Vendor      | Description          | Quantity | Unit Price($) | Extended Price($) | Product Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
